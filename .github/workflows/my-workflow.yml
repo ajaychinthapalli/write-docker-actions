@@ -11,7 +11,4 @@ jobs:
 
       - name: hello-action
         uses: ./.github/actions/hello-world
-        with:
-          firstGreeting: "Ajay Chinthapalli"
-          secondGreeting: "Sri Putta"
-          thirdGreeting: "Lord"
+
